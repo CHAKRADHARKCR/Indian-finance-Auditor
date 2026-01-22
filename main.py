@@ -84,4 +84,18 @@ if uploaded_file:
 
 # Footer
 st.markdown("---")
-st.caption("Developed by K chakradhar | Built for the Gytworkz AI Backend Role")
+# Centered footer with clickable links
+st.markdown(
+    """
+    <div style="text-align: center;">
+        <p>Developed with ❤️ by <strong>K Chakradhar</strong></p>
+        <p>
+            <a href="https://www.linkedin.com/in/chakradharkovvuri/" target="_blank">LinkedIn</a> | 
+            <a href="https://github.com/CHAKRADHARKCR" target="_blank">GitHub</a> | 
+            <a href="https://your-resume-link.com" target="_blank">View Resume</a>
+        </p>
+        <p style="font-size: 0.8em; color: gray;">Specialized AI Backend Project for Gytworkz Recruitment</p>
+    </div>
+    """,
+    unsafe_allow_html=True
+)
