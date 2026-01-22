@@ -92,7 +92,7 @@ st.markdown(
         <p>
             <a href="https://www.linkedin.com/in/chakradharkovvuri/" target="_blank">LinkedIn</a> | 
             <a href="https://github.com/CHAKRADHARKCR" target="_blank">GitHub</a> | 
-            <a href="https://your-resume-link.com" target="_blank">View Resume</a>
+            <a href="https://drive.google.com/file/d/1uVzSZUoq29DJP_cWMnHO2a9uutANTtp9/view?usp=sharing" target="_blank">View Resume</a>
         </p>
         <p style="font-size: 0.8em; color: gray;">Specialized AI Backend Project for Gytworkz Recruitment</p>
     </div>
