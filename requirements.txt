@@ -3,6 +3,7 @@ langchain
 langchain-groq
 langchain-community
 langchain-text-splitters
+langchain-classic
 sentence-transformers
 chromadb
 pypdf
