@@ -51,7 +51,7 @@ if uploaded_file:
             # D. AI Logic Setup (Llama 3 via Groq)
             llm = ChatGroq(
                 groq_api_key=groq_api_key, 
-                model_name="llama3-8b-8192",
+                model_name="llama-3.1-8b-instant",
                 temperature=0  # 0 for factual, non-creative auditing
             )
             
