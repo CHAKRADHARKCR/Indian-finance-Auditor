@@ -88,13 +88,13 @@ st.markdown("---")
 st.markdown(
     """
     <div style="text-align: center;">
-        <p>Developed with ❤️ by <strong>K Chakradhar</strong></p>
+        <p>Developed by <strong>K Chakradhar</strong></p>
         <p>
             <a href="https://www.linkedin.com/in/chakradharkovvuri/" target="_blank">LinkedIn</a> | 
             <a href="https://github.com/CHAKRADHARKCR" target="_blank">GitHub</a> | 
-            <a href="https://drive.google.com/file/d/1uVzSZUoq29DJP_cWMnHO2a9uutANTtp9/view?usp=sharing" target="_blank">View Resume</a>
+            <a href="https://drive.google.com/file/d/17i66fAIfd785YljMu62WPYcGWE4V23cc/view?usp=sharing" target="_blank">View Resume</a>
         </p>
-        <p style="font-size: 0.8em; color: gray;">Specialized AI Backend Project for Gytworkz Recruitment</p>
+        <p style="font-size: 0.8em; color: gray;">Specialized AI Backend Project</p>
     </div>
     """,
     unsafe_allow_html=True
